@@ -1,1 +1,4 @@
-# Accenture-Activities-Jimmy
+# JAVA MASTERCLASS
+# ANGULAR
+# WEB DEVELOPMENT
+# Screenshots
